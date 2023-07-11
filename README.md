@@ -1,3 +1,6 @@
+# GitHub
+link to gitHub(https://github.com/Zoritaka/hw2)
+
 # Homework2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.2.
