@@ -1,0 +1,39 @@
+li.selected {
+    border: 1px solid black;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.block{
+    display: flex;
+    padding: 15px;
+    background-color: antiquewhite;
+    width: 600px;
+    border-radius: 15px;
+    border: 1px solid aliceblue;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text p{
+    font-size: 17px;
+    margin: 5px 0;
+}
+.text a{
+    color: blue;
+    text-decoration: none;
+}
+.text li{
+    font-size: 20px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin-right: 15px;
+    border-radius: 10px;
+    border: 2px solid aliceblue;
+}
